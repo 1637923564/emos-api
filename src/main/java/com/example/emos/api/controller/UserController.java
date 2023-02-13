@@ -1,7 +1,7 @@
 package com.example.emos.api.controller;
 
 import com.example.emos.api.common.util.R;
-import com.example.emos.api.pojo.User;
+import com.example.emos.api.db.pojo.User;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import org.springframework.web.bind.annotation.*;

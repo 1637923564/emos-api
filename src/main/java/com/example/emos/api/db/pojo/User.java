@@ -1,4 +1,4 @@
-package com.example.emos.api.pojo;
+package com.example.emos.api.db.pojo;
 
 import lombok.Data;
 
